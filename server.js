@@ -1,6 +1,8 @@
-var express = require('express');
-var morgan = require('morgan');
+var express = require('express'); //used to create the web server
+var morgan = require('morgan'); //help output logs of our sevrer
 var path = require('path');
+
+// lines 8,12,16 are used to handle specific URL's
 
 var app = express();
 app.use(morgan('combined'));
