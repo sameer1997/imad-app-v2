@@ -12,13 +12,13 @@ var article_one = {
     heading: "Article One",
     date: "Feb 9",
     content: `<p>
-                Content in here is a part of my third Article.This is done using online stuff.This page is additional to the homepage.
+                Content in here is a part of my first Article.This is done using online stuff.This page is additional to the homepage.
             </p>
             <p>
-                Content in here is a part of my third Article.This is done using online stuff.This page is additional to the homepage.
+                Content in here is a part of my first Article.This is done using online stuff.This page is additional to the homepage.
             </p>
             <p>
-                Content in here is a part of my third Article.This is done using online stuff.This page is additional to the homepage.
+                Content in here is a part of my first Article.This is done using online stuff.This page is additional to the homepage.
             </p>`
 };
 
